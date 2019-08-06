@@ -1,0 +1,14 @@
+{
+	"name":"sampler/hello-world",
+	"author":[
+		{
+			"name":"sampler"
+		}
+	],
+	"require":{},
+	"autoload":{
+		"psr-0":{
+			"HelloWorld":"src/"
+		}
+	}
+}
